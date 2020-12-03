@@ -1,0 +1,14 @@
+#map {
+    height: 75%;
+}
+
+#main {
+    width: 600px;
+    float: left;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
